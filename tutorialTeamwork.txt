@@ -1,0 +1,9 @@
+#Hướng dẫn làm việc nhóm
+
+- Fork repository được tạo ở Organization
+- watching để được theo dõi pull request của đồng nghiệp nhé
+- git clone fork repository về máy
+- Làm việc bình thường, lưu ý:
++ Khi add file hoặc commit 1 file chúng ta tạo 1 pull request
++ chủ dự án sẽ merge pull request đó và project sẽ cập nhật các file
++ người dùng chỉ cần tạo một request thì các file sẽ tự động
